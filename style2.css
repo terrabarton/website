@@ -1,0 +1,14 @@
+* {
+  Font size: 100%; Line-height: 2;
+}
+
+body {
+  background-color: AntiqueWhite;
+  color: DimGrey;
+  font-family: 'Gotu', sans-serif;
+  font-size: 14px;
+}
+
+header h1 {
+  text-align: center;
+}

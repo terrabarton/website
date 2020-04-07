@@ -1,0 +1,41 @@
+/* Website Styles */
+* {
+  font-size: 100%;
+}
+
+body {
+  background-color: AntiqueWhite;
+  color: DimGrey;
+  font-family: 'Gotu', sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  color: Black
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+header h1 {
+  text-align: center;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+}
+
+* {
+  line-height: 3;
+}
