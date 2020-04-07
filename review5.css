@@ -1,0 +1,32 @@
+/* Review 5 css Intro */
+body {
+  background-color: aqua;
+  color: red;
+  font-family: arial;
+  font-size: 14px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2, p {
+  color: black;
+}
+
+section p {
+  color: green;
+}
+
+a:active {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: blue;
+}
