@@ -7,7 +7,7 @@ body {
   background-color: AntiqueWhite;
   color: DimGrey;
   font-family: 'Gotu', sans-serif;
-  font-size: 15px;
+  font-size: 20px;
    margin: 15px;
 }
 
@@ -89,4 +89,18 @@ img {
   background-image: url(images/banner1.jpg);
   background-size: cover;
   background-position: center;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+Header {
+  background: Black;
+}
+
+section p {
+  font-size: 15;
+  font-weight: light;
 }
