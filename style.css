@@ -11,6 +11,11 @@ body {
    margin: 15px;
 }
 
+body {
+  background-image: url(images/pattern.png);
+  /* background-repeat: no-repeat; */
+}
+
 h1, h2, h3 {
   font-weight: bold;
   font-style: italic;
@@ -77,4 +82,11 @@ img {
 .subtitle {
   text-align: right;
   margin: 5px;
+}
+
+.banner {
+  height: 350px;
+  background-image: url(images/banner1.jpg);
+  background-size: cover;
+  background-position: center;
 }
